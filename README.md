@@ -1,7 +1,3 @@
-Here’s a **README.txt** draft for your project:
-
----
-
 # YOLOv8 Multi-Object Detection with Age & Gender Estimation
 
 ## 📌 Overview
@@ -77,6 +73,3 @@ Download and place the following files in your project directory:
 * Train custom **age/gender datasets** for more precise classification.
 * Extend project to detect **mood/emotions** along with age and gender.
 
----
-
-Would you like me to make this `README.txt` **very minimal (just installation + usage)** so it looks like a student-friendly final-year project doc, or keep it **detailed and professional** like above?
